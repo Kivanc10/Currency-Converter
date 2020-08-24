@@ -54,11 +54,7 @@ class Golds extends Component {
         return (
             <View style={styles.container}>
                 <View style={{ justifyContent: "center", alignItems: "center" }}>
-                <AdMobBanner
-                    bannerSize="fullBanner"
-                    adUnitID="ca-app-pub-7845548592670563/8792731880" // Test ID, Replace with your-admob-unit-id
-                    servePersonalizedAds={true} // true or false
-                    onDidFailToReceiveAdWithError={() => {}} />
+                
                 </View>            
                 <View style={styles.entry}>
                     <Image style={styles.logo} source={require("../../assets/gold.png")} />
