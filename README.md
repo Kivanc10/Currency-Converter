@@ -29,6 +29,7 @@
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/><br/>
 
+
 ## 3-) Calculate(Hesaplama)
 
 * `This section include that calculate the response of currencies according to euro.`
@@ -38,6 +39,8 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/><br/>
+
+
 
 ## How to use
 
@@ -50,6 +53,7 @@
 * `expo start`
 
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Dependencies
 
