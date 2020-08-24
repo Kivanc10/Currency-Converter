@@ -26,8 +26,6 @@
   <img src="https://github.com/Kivanc10/Currency-Converter/blob/master/images/Screenshot_20200728-154923%20(1).jpg" width="400" height="800" align="left">
   <img src="https://github.com/Kivanc10/Currency-Converter/blob/master/images/Screenshot_20200728-154930%20(1).jpg" width="400" height="800" align="right">
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/>
 
 
 ## 3-) Calculate(Hesaplama)
