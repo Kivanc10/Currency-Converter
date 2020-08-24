@@ -8,11 +8,7 @@ import {
 const AboutMe = ({ navigation }) => {
     return (
         <View style={styles.container}>
-        <AdMobBanner
-                    bannerSize="fullBanner"
-                    adUnitID="ca-app-pub-7845548592670563/8792731880" // Test ID, Replace with your-admob-unit-id
-                    servePersonalizedAds={true} // true or false
-                    onDidFailToReceiveAdWithError={() => {}} />
+    
              <View style={{ justifyContent: "center", alignItems: "center" ,paddingBottom : 15}}>
         </View>       
             <View style={styles.wrapper}>
