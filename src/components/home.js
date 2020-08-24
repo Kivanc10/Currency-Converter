@@ -77,11 +77,7 @@ class Home extends Component {
     const { BHD, CAD, EUR, GBP, JOD, JPY, KWD, KYD, TRY, OMR, CHF, LYD, AZN, AUD, USD, BGN, RUB, QAR, IRR, CNY } = this.state;
     return (
       <View style={styles.container}>
-    <AdMobBanner
-                    bannerSize="fullBanner"
-                    adUnitID="ca-app-pub-3940256099942544/6300978111" // Test ID, Replace with your-admob-unit-id
-                    servePersonalizedAds={true} // true or false
-                    onDidFailToReceiveAdWithError={() => {}} />
+   
  
         <View style={{ justifyContent: "center", alignItems: "center" }}>
         </View>
