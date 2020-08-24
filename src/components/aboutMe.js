@@ -32,11 +32,7 @@ const AboutMe = ({ navigation }) => {
             </View>     
             <View style={{ justifyContent: "center", alignItems: "center" }}>
         </View>  
-        <AdMobBanner
-                    bannerSize="fullBanner"
-                    adUnitID="ca-app-pub-7845548592670563/8792731880" // Test ID, Replace with your-admob-unit-id
-                    servePersonalizedAds={true} // true or false
-                    onDidFailToReceiveAdWithError={() => {}} />
+        
         </View>
     )
 }
