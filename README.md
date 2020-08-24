@@ -37,7 +37,13 @@
 
 
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+
+<br /><br />
+<br /><br />
+
+## How to use
 
 * `git clone https://github.com/Kivanc10/Currency-Converter.git`
 
