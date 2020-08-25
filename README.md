@@ -24,29 +24,30 @@
 `This section show that actual golds buy and sell values.`
 
 
- <p> <img src="https://github.com/Kivanc10/Currency-Converter/blob/master/images/Screenshot_20200728-154923%20(1).jpg" width="400" height="800" align="left"></p>
+ <p> <img src="https://github.com/Kivanc10/Currency-Converter/blob/master/images/Screenshot_20200728-154923%20(1).jpg" width="400" height="800" align="center"></p>
+ <br /><br />
 <p><img src="https://github.com/Kivanc10/Currency-Converter/blob/master/images/Screenshot_20200728-154930%20(1).jpg" width="400" height="800" align="right"></p>
+<br /><br />
 
 
-
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br />
 
 
 ## 3-) Calculate(Hesaplama)
 
 * `This section include that calculate the response of currencies according to euro.`
 
-<p><img src="https://github.com/Kivanc10/Currency-Converter/blob/master/images/Screenshot_20200728-154937.jpg" width="400" height="800" align="left"></p>
-<p><img src="https://github.com/Kivanc10/Currency-Converter/blob/master/images/Screenshot_20200728-154944%20(1).jpg" width="400" height="800" align="right"></p>
+<p><img src="https://github.com/Kivanc10/Currency-Converter/blob/master/images/Screenshot_20200728-154937.jpg" width="400" height="800" align="center"></p>
+<br /><br />
+<p><img src="https://github.com/Kivanc10/Currency-Converter/blob/master/images/Screenshot_20200728-154944%20(1).jpg" width="400" height="800" align="center"></p>
 
 
-
-
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 
 <br /><br />
-<br /><br />
+
+
+
 
 
 ## How to use
@@ -61,7 +62,7 @@
 
 
 
-<br/><br/><br/><br/><br/>
+<br/><br/>
 
 
 ## Dependencies
