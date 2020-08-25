@@ -1,16 +1,18 @@
 # Currency-Converter
 
 * This application show that buy and sell values of currencies and golds.You can easily learn currencies by actual and relaible sources.
-<br>
+
+<br/>
 
 * Also this app include that  calculate the response of currencies according to euro.
 
-<br>
+<br/>
 
 * As simple this app happen 3 main section that Actual Currency(Güncel Döviz),Golds(Altın),Calculate(Hesaplama).
 
 
-<br><br>
+<br/><br/>
+
 
 ## 1-) Actual Currency(Güncel Döviz)
 
@@ -26,7 +28,10 @@
 <p><img src="https://github.com/Kivanc10/Currency-Converter/blob/master/images/Screenshot_20200728-154930%20(1).jpg" width="400" height="800" align="right"></p>
 
 
+
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+
 ## 3-) Calculate(Hesaplama)
 
 * `This section include that calculate the response of currencies according to euro.`
@@ -43,6 +48,7 @@
 <br /><br />
 <br /><br />
 
+
 ## How to use
 
 * `git clone https://github.com/Kivanc10/Currency-Converter.git`
@@ -54,7 +60,9 @@
 * `expo start`
 
 
+
 <br/><br/><br/><br/><br/>
+
 
 ## Dependencies
 
@@ -79,3 +87,6 @@
 * react-redux": "^7.2.0",
 * redux": "^4.0.5",
 * redux-thunk": "^2.3.0"
+
+
+## [Download Link on Google Play Store]( https://play.google.com/store/apps/details?id=com.kivancSoft.kivanc)
