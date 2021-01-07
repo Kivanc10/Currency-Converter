@@ -1,6 +1,13 @@
 # Currency-Converter
 
-* This application show that buy and sell values of currencies and golds.You can easily learn currencies by actual and relaible sources.
+<a href="https://github.com/Kivanc10/Currency-Converter/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Kivanc10/Currency-Converter"></a>
+<img alt="npm" src="https://img.shields.io/npm/v/npm">
+
+* This application show that buy and sell values of currencies and golds.You can easily learn currencies by actual and relaible sources.  
+
+
+
+
 
 <br/>
 
